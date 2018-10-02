@@ -1,2 +1,2 @@
 # search4letters
-search for letters in a string
+webapp that searches for letters in a string
